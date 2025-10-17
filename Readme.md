@@ -1,7 +1,7 @@
 # Soumaia Kanzari
 
 **Email:** soumayakanzari@gmail.com  
-**GitHub:** [soumayakanzari-spec/Portfolio](https://github.com/soumayakanzari-spec/Portfolio.git)
+**GitHub:**https://github.com/soumayakanzari-spec?tab=repositories
 
 ---
 
